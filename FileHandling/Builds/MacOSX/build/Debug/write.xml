@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Catalog>
+  <Item1-1 Duration="1.019999980926514"/>
+  <Item1-2 Duration="1.559999942779541">
+    <Chords Array="Array">
+      <Element Value="C#"/>
+      <Element Value="Bb"/>
+      <Element Value="F"/>
+      <Element Value="G#"/>
+    </Chords>
+  </Item1-2>
+  <Item2-1 Duration="2.170000076293945"/>
+</Catalog>

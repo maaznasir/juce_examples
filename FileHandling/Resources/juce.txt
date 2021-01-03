@@ -1,0 +1,16 @@
+*Cross platform*
+JUCE facilitates the management of projects running on several platforms. JUCE supports Windows, Mac OS, Linux, iOS and Android.
+
+*User Interface & Graphics*
+JUCE makes it easy to build a versatile UI that can run on any platform and integrate OpenGL. JUCE handles 2D rendering engines, image format handling and font functionality.
+
+*The Projucer*
+The Projucer is JUCE's project management tool, featuring the Instant Compilation Environment engine (the ICE engine), allowing to visualise instantly changes in the code.
+
+*Audio & plug-ins*
+Manage audio I/O, audio file reading and writing, and deploy all plugin formats. Build VST, VST3, AU, RTAS and AAX format plugins with ease, and host VST and AU plugins inside your own applications.
+
+*MIDI, MPE & OSC*
+JUCE provides full MIDI support, as well as the new Multidimensional Polyphonic Expression protocol, and Open Sound Control (OSC).
+
+

@@ -1,0 +1,14 @@
+<CATALOG>
+    <CD TITLE="Empire Burlesque"
+        ARTIST="Bob Dylan"
+        COUNTRY="USA"
+        COMPANY="Columbia"
+        PRICE="10.90"
+        YEAR="1985" />
+    <CD TITLE="Hide your heart"
+        ARTIST="Bonnie Tyler"
+        COUNTRY="UK"
+        COMPANY="CBS Records"
+        PRICE="9.90"
+        YEAR="1988" />
+</CATALOG>
